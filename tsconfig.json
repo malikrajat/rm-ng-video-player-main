@@ -11,6 +11,9 @@
     "skipLibCheck": true,
     "isolatedModules": true,
     "experimentalDecorators": true,
+    "paths": {
+      "rm-ng-video-player": ["./dist/rm-ng-video-player"]
+    },
     "importHelpers": true,
     "target": "ES2022",
     "module": "preserve"
@@ -28,6 +31,12 @@
     },
     {
       "path": "./tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/rm-ng-video-player/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/rm-ng-video-player/tsconfig.spec.json"
     }
   ]
 }
