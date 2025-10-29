@@ -1,0 +1,29 @@
+WEBVTT
+
+00:00.000 --> 00:03.000
+Welcome to the video player demo!
+
+00:03.000 --> 00:06.000
+This is a sample caption showing at 3 seconds.
+
+00:06.000 --> 00:09.000
+You can toggle captions on and off using the CC button.
+
+00:09.000 --> 00:12.000
+Keyboard shortcut: Press 'C' to toggle captions.
+
+00:12.000 --> 00:15.000
+The captions will appear at the bottom of the video.
+
+00:15.000 --> 00:18.000
+This demonstrates the caption functionality working.
+
+00:18.000 --> 00:21.000
+Captions support multiple lines
+and formatting options.
+
+00:21.000 --> 00:24.000
+You can style captions with CSS if needed.
+
+00:24.000 --> 00:27.000
+This is the end of the sample captions.
